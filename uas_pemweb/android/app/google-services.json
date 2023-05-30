@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80673837582",
+    "project_id": "uaspemweb-828c5",
+    "storage_bucket": "uaspemweb-828c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80673837582:android:c913aff12bb7135667625f",
+        "android_client_info": {
+          "package_name": "com.example.uas_pemweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80673837582-6k86esgi1fktamc1q00gd11qciqs81o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-w748H1JvpIVyKIawN7xTdY_8HQmsNNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80673837582-6k86esgi1fktamc1q00gd11qciqs81o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
